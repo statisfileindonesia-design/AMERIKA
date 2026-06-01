@@ -2,15 +2,21 @@
   "schema": "2.0",
   "encrypted": true,
   "genre": "AMERIKA",
-  "total": 1,
+  "total": 2,
   "data": [
     {
       "NAMAE": "cFlRV1oZaVRcQVhRQ0oZWlQVZ2N4cA==",
       "COVER": "WkFEREIDFhpbWFFTVEoLG1tYV1ZeQRdWXVgfAgAWAAQdDXZRW0t4REZqXxpBV14=",
       "SINOPSIS": "WkFEREIDFhpbWFFTVEoLG1tYV1ZeQRdWXVgfBwUWAAQddEh2Bw9pXFpqXxpBV14=",
       "LINK": "AwEHAAQODg0CAwQEAQo="
+    },
+    {
+      "NAMAE": "Zl1VFH1YSkESZ1VHXktN",
+      "COVER": "WkFEREIDFhpbWFFTVEoLG1tYV1ZeQRdWXVgfAgcWXFYdTHYBawgMRnFqXxpBV14=",
+      "SINOPSIS": "WkFEREIDFhpbWFFTVEoLG1tYV1ZeQRdWXVgfBAYWClcdA2JaWExrR0BqXxpBV14=",
+      "LINK": "AwYIBwgPDAUFDQUNAwo="
     }
   ],
-  "lastSync": "2026-05-28T14:06:53.188Z",
+  "lastSync": "2026-06-01T13:03:05.251Z",
   "note": ""
 }
